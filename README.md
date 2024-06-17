@@ -58,5 +58,7 @@ print(output)
 
 ## References
 [FlexGen GitHub Repository](https://github.com/FMInference/FlexGen)  
+
 [BitsAndBytes GitHub Repository](https://github.com/TimDettmers/bitsandbytes)
+
 [Scalene GitHub Repository](https://github.com/plasma-umass/scalene)
